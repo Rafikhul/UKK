@@ -1,0 +1,15 @@
+<table border='1'><tr><th>No</th><th>Nama</th><th>Kategori</th><th>Stok</th><th>Harga</th><th>Tanggal Masuk</th></tr><tr>
+        <td>1</td>
+        <td>rafikhul</td>
+        <td>Elektronik</td>
+        <td>1</td>
+        <td>75000</td>
+        <td>1111-11-11</td>
+    </tr><tr>
+        <td>2</td>
+        <td>doni</td>
+        <td>buku</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1111-11-11</td>
+    </tr></table><script src='https://unpkg.com/sweetalert/dist/sweetalert.min.js'></script><script>swal('Export Success', 'Data has been exported successfully!', 'success');</script>
